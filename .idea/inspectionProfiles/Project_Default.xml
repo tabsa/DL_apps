@@ -1,0 +1,13 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="Multi_armed_bandit.multi_armed_example.mad_class_code" />
+          <option value="Multi_armed_bandit.energy_p2p_market.p2p_class_code" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
